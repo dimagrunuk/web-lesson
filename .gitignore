@@ -3,8 +3,6 @@ node_modules/
 .DS_Store
 .vscode/
 .idea/
-node_modules/
 dist/
-.env
 .DS_Store # Для macOS
 npm-debug.log
